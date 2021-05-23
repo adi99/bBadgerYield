@@ -53,4 +53,3 @@ To compile, run
 ## Test
 
 `yarn test`
-
