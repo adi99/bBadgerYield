@@ -6,7 +6,7 @@ C.R.E.A.M. Finance is a decentralized lending protocol for individuals and proto
 
 ## Concept
 
-This yield generator uses 3 different Protocol((Cream.Finance,Yearn and Curve.fi) to gain highest yield. Badger is first deposited into the https://badger.finance/ and bBadger is received. The APY used in the below exmaple are current APY on 23 May which may subjected to change.This Strategy uses following steps to generate yield:-
+This yield generator uses 3 different Protocol((Cream.Finance,Yearn and Curve.fi) to gain highest yield. Badger is first deposited into the https://badger.finance/ and bBadger is received. The APY used in the below example are current APY on 23 May which may subjected to change.This Strategy uses following steps to generate yield:-
 
 1- bBadger is deposited into C.R.E.A.M. Finance and DAI is borrowed from same Protocol. The total DAI borrowed is 50% of deposited bBadger (in USD).
 
