@@ -39,9 +39,6 @@
         "console": "hardhat console",
         "verify": "yarn hint && yarn test",
         "test": "yarn hardhat test --network hardhat",
-        "lint": "yarn solhint 'contracts/**/*.sol' && yarn prettier -c './**/*.js'",
-        "format": "yarn prettier --write contracts/*.sol && yarn prettier --write test/*.js",
-        "hint": "solhint \"contracts/**/*.sol\"",
         "coverage": "yarn hardhat coverage  --testfiles \"test/*.js\""
     }
 }
